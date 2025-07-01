@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Math&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Parastoo:wght@400..700&display=swap');@import url('https://fonts.googleapis.com/css2?family=Libertinus+Math&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Parastoo:wght@400..700&display=swap');
+.libertinus-math-regular {
+  font-family: "Libertinus Math", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.manufacturing-consent-regular {
+    font-family: "Manufacturing Consent", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+  }
+
+  .matematico
+{
+    text-align: center;
+    font-family: "Libertinus Math", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+title
+{
+    text-align: center;
+    color: bisque;
+
+}
+body
+{
+    color: rgb(90, 105, 105);
+    font-size: larger;
+    background-color: #84b6e23b;
+    background: #bdecff;
+background: linear-gradient(180deg, rgba(189, 236, 255, 0.15) 0%, rgba(0, 52, 196, 0.28) 100%);
+    
+}
+.foto {
+    display: flex;
+    text-align: center;
+    margin: auto;
+  }
